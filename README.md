@@ -678,7 +678,7 @@ See [CHANGELOG.md](CHANGELOG.md) for full history.
 
 **⭐ Star this repository if you find it helpful! ⭐**
 
-Made with ❤️ by the Hand Gesture Recognizer Team
+Made with ❤️ by Ashwin VK
 
 [⬆ Back to Top](#-hand-gesture-recognition-application)
 
