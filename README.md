@@ -18,10 +18,9 @@
 
 <div align="center">
 
-<video width="720" controls>
-  <source src="./Video Proof Musical Gesture Recognition + Skeleton Analysis.mp4" type="video/mp4">
-  Your browser does not support the video tag. <a href="./Video Proof Musical Gesture Recognition + Skeleton Analysis.mp4">Download video</a>
-</video>
+### [▶️ Watch Demo Video](./Video%20Proof%20Musical%20Gesture%20Recognition%20%2B%20Skeleton%20Analysis.mp4)
+
+**Click the button above to watch the full demonstration**
 
 </div>
 
