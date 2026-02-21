@@ -16,10 +16,7 @@
 ---
 ## 🎥 Demo Video
 
-<video width="100%" controls>
-  <source src="./Video Proof Musical Gesture Recognition + Skeleton Analysis.mp4" type="video/mp4">
-  Your browser does not support the video tag. <a href="./Video Proof Musical Gesture Recognition + Skeleton Analysis.mp4">Click here to watch the demo</a>
-</video>
+[![Watch the demo video](https://img.shields.io/badge/▶️%20Watch%20Demo-Video-red?style=for-the-badge)](./Video%20Proof%20Musical%20Gesture%20Recognition%20%2B%20Skeleton%20Analysis.mp4)
 
 ## 📖 Table of Contents
 
