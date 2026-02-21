@@ -16,7 +16,11 @@
 ---
 ## 🎥 Demo Video
 
-[Click here to watch the demo](./Video Proof Musical Gesture Recognition + Skeleton Analysis.mp4)
+<video width="100%" controls>
+  <source src="./Video Proof Musical Gesture Recognition + Skeleton Analysis.mp4" type="video/mp4">
+  Your browser does not support the video tag. <a href="./Video Proof Musical Gesture Recognition + Skeleton Analysis.mp4">Click here to watch the demo</a>
+</video>
+
 ## 📖 Table of Contents
 
 - [Overview](#-overview)
