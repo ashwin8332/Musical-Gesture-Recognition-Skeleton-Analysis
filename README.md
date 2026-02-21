@@ -14,7 +14,9 @@
 </div>
 
 ---
+## 🎥 Demo Video
 
+[Click here to watch the demo](./Video Proof Musical Gesture Recognition + Skeleton Analysis.mp4)
 ## 📖 Table of Contents
 
 - [Overview](#-overview)
